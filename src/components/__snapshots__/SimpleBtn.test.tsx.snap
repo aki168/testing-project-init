@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`click and show ON or OFF 1`] = `
+<div>
+  <button>
+    OFF
+  </button>
+</div>
+`;
